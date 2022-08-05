@@ -1,0 +1,10 @@
+nft_project/node_modules
+nft_project/.env
+nft_project/coverage
+nft_project/coverage.json
+nft_project/typechain
+nft_project/typechain-types
+
+#Hardhat files
+nft_project/cache
+nft_project/artifacts
