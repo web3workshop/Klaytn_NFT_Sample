@@ -4,7 +4,7 @@
 - pkg: go to https://nodejs.org/en/ (LTS version is recommended) then install
 - tool: use nvm/brew to install node.js
 
-## 2. project init
+## 2. init project
 ```shell
 mkdir nft_project && cd nft_project
 // init node.js project
