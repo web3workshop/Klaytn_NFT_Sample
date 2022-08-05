@@ -1,4 +1,4 @@
-# How to build a NFT project based on hardhat on Klaytn
+# How to build an NFT project based on hardhat on Klaytn
 
 ## 1. install node.js
 - pkg: go to https://nodejs.org/en/ (LTS version is recommended) then install
